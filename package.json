@@ -1,0 +1,16 @@
+{
+  "name": "vue-docs",
+  "version": "0.1.0",
+  "bin": {
+    "vue-docs": "index.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "es6-promise": "^4.1.1",
+    "fs-extra": "^4.0.2",
+    "phantom": "^4.0.5",
+    "phantomjs-polyfill": "0.0.2",
+    "promise-polyfill": "^6.0.2",
+    "yargs": "^9.0.1"
+  }
+}
